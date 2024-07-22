@@ -20,8 +20,8 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+          Blockchain & Full Stack <br />
+            <span className="text-accent">developer</span>class="hidden xl:flex absolute bottom-0 -left-[370px]"
           </motion.h1>
 
           {/* subtitle */}
@@ -32,10 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+           I am a highly skilled Boackchain and Full Stack Developer with 7 years of extensive experience in blockchain and web development. My expertise lies in creating, deploying, and maintaining decentralized applications (dApps), smart contracts, and comprehensive web solutions. I have successfully delivered numerous projects for a diverse range of clients, demonstrating my ability to adapt to different requirements and provide high-quality, scalable solutions.
           </motion.p>
 
           {/* btn */}

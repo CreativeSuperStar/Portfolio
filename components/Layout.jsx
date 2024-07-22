@@ -22,13 +22,13 @@ const Layout = ({ children }) => {
         <title>Super Dev | Portfolio</title>
         <meta
           name="description"
-          content="Ethan Smith is a Full-stack web developer with 10+ years of experience."
+          content="Super Dev is a Full-stack web and blockchain developer with 7+ years of experience."
         />
         <meta
           name="keywords"
-          content="react, next, nextjs, html, css, javascript, js, modern-ui, modern-ux, portfolio, framer-motion, 3d-website, particle-effect"
+          content="react, next, nextjs, html, css, javascript, js, modern-ui, modern-ux, portfolio, framer-motion, 3d-website, particle-effect, vue, blockchain, dex, dao, smart contract, Defi, block, chain, crypto, cryptography, decentralized, full stack, frontend, backend, developer, laravel, php, ruby, "
         />
-        <meta name="author" content="Sanidhya Kumar Verma" />
+        <meta name="author" content="Super Dev" />
         <meta name="theme-color" content="#f13024" />
       </Head>
 

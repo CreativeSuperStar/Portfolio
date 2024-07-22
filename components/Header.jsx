@@ -10,13 +10,9 @@ const Header = () => {
         <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
           {/* logo */}
           <Link href="/">
-            <Image
-              src="/logo.svg"
-              alt="logo"
-              width={220}
-              height={48}
-              priority
-            />
+            <h1 className="text-3xl">
+              Super <i>DEV</i>
+            </h1>
           </Link>
 
           {/* socials */}
