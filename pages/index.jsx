@@ -21,7 +21,7 @@ const Home = () => {
             className="h1"
           >
           Blockchain & Full Stack <br />
-            <span className="text-accent">developer</span>class="hidden xl:flex absolute bottom-0 -left-[370px]"
+            <span className="text-accent">developer</span>
           </motion.h1>
 
           {/* subtitle */}
